@@ -26,6 +26,6 @@ Vorgehens oder Protokoll des Scheiterns
 | Daten scrapen                                                      | 15.2. | 2h          |
 | Daten putzen, manuell                                              | 15.2. | 1h          |
 | Pandas Auswertung                                                  | 15.2. | 2h          |
-| Pandas, weitere Auswertungen                                       | 16.2. | 3h          |
+| Pandas, weitere Auswertungen                                       | 16.2. | 6h          |
 | Text schreiben                                                     | 16.2. | 4h          |
 | Repository erstellen                                               | 16.2. | 2h          |
