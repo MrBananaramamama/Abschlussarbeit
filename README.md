@@ -1,5 +1,5 @@
-# Abschlussarbeit CAS MAZ Datenjournalismus
-"Wem gehören die börsenkotierten Schweizer Unternehmen?" 
+## Abschlussarbeit CAS MAZ Datenjournalismus
+# "Wem gehören die börsenkotierten Schweizer Unternehmen?" 
 
 Eine Annäherung an die Besitzverhältnisse von börsenkotierten Schweizer Unternehmen im UBS 100 Index und weiteren.
 
