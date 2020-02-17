@@ -3,12 +3,22 @@
 Eine Annäherung an die Besitzverhältnisse von Schweizer Unternehmen im UBS 100 Index und weiteren.
 
 _Ausgangsthese
+
 _Einschätzung von Aufwand/Ertrag vor Beginn des Projektes
+
 _Bezeichnung des Knackpunkts des Projektes
-_Kurze Zusammenfassung des Gesprächs mit einer Briefing Person
+
+Briefing-Gespräch:
+Mit Julian Chan, Mediensprecher SIX Group:
+"Knackpunkte sind grundsätzlich folgende: Es sind einfach die neuesten Meldungen, aber das heisst nicht, dass sie aktuell sind. Denn Meldungen müssen nur gemacht werden, wenn eine der Schwellen, also bei 3 oder 5 Prozent oder darüber, über oder unterschritten wird. Wenn sich die Anteile zwischen den Schwellen verschieben, braucht es keine Meldung. Ausserdem werden die Meldungen von den Firmen selbst verfasst, wir publizieren sie nur. Das heisst, sie sind auch nicht einheitlich."
+"Die Daten können wir leider nicht zur Verfügung stellen, wir haben sie nicht so strutkurier."
+
 _Datensatz (auch bereits strukturierte Daten können verwendet werden)
+
 _Programmiercode
+
 _Arbeitsprotokoll (Was hast du wann weshalb gemacht?)
+
 _je nach gewählter Variante 1,2 oder 3: Endprodukt, Skizze des weiteren
 Vorgehens oder Protokoll des Scheiterns
 
