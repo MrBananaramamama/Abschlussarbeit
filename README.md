@@ -3,6 +3,8 @@
 
 Eine Annäherung an die Besitzverhältnisse von börsenkotierten Schweizer Unternehmen im UBS 100 Index und weiteren.
 
+Link zum Artikel, weiteres Vorgehen: https://github.com/MrBananaramamama/Abschlussarbeit/blob/master/Artikel_Weiteres%20Vorgehen.pdf
+
 ## Ausgangsthese
 Es ist bekannt, dass der grösste Teil der Schweizer Firmen auch natürlichen und juristischen Personen in der Schweiz gehören, danach wohl grosse amerikanische Vermögensverwalter folgen. Doch auch die Uebernahme von Firmen aus China hat in den letzten Jahren für Schlagzeilen gesorgt. Wie genau die Verteilung aber ist, ist nur bruchstückhaft bekannt.
 
