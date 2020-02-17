@@ -1,6 +1,5 @@
 # Abschlussarbeit CAS MAZ Datenjournalismus
-"Wem gehören die börsenkotierten Schweizer Unternehmen?"
-Eine Annäherung an die Besitzverhältnisse von börsenkotierten Schweizer Unternehmen im UBS 100 Index und weiteren.
+"Wem gehören die börsenkotierten Schweizer Unternehmen?" Eine Annäherung an die Besitzverhältnisse von börsenkotierten Schweizer Unternehmen im UBS 100 Index und weiteren.
 
 ## Ausgangsthese
 Es ist bekannt, dass der grösste Teil der Schweizer Firmen auch natürlichen und juristischen Personen in der Schweiz gehören, danach wohl grosse amerikanische Vermögensverwalter folgen. Doch auch die Uebernahme von Firmen aus China hat in den letzten Jahren für Schlagzeilen gesorgt. Wie genau die Verteilung aber ist, ist nur bruchstückhaft bekannt.
