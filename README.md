@@ -1,12 +1,16 @@
 # Abschlussarbeit CAS MAZ Datenjournalismus
-"Wem gehören die börsenkotierten Schweizer Unternehmen?" 
-Eine Annäherung an die Besitzverhältnisse von Schweizer Unternehmen im UBS 100 Index und weiteren.
+"Wem gehören die börsenkotierten Schweizer Unternehmen?"
+Eine Annäherung an die Besitzverhältnisse von börsenkotierten Schweizer Unternehmen im UBS 100 Index und weiteren.
 
-_Ausgangsthese
+## Ausgangsthese
+Es ist bekannt, dass der grösste Teil der Schweizer Firmen auch natürlichen und juristischen Personen in der Schweiz gehören, danach wohl grosse amerikanische Vermögensverwalter folgen. Doch auch die Uebernahme von Firmen aus China hat in den letzten Jahren für Schlagzeilen gesorgt. Wie genau die Verteilung aber ist, ist nur bruchstückhaft bekannt.
 
-_Einschätzung von Aufwand/Ertrag vor Beginn des Projektes
+## Aufwand/Ertrag
+Der Aufwand wird wohl beträchtlich sein, die Webseite der SIX scheint zwar auf den ersten Blick gut strukturiert, aber die Angaben sind nicht einheitlich und manchmal fehlend. 
+Der Ertrag kann je nach Entwicklung interessant sein. Insbesondere, wenn die Analyse jedes halbe Jahr wiederholt wird, können sich Änderungen der Besitzverhältnisse der Schweizer Firmen zeigen. Das hat Relevanz.
 
-_Bezeichnung des Knackpunkts des Projektes
+## Knackpunkt
+Das Ergebnis wird bei weitem nicht abschliessend sein. Weil nur Besitz von 3, 5 oder mehr Prozent an einer börsenkotierten Firma gemeldet werden muss, bleibt ein sehr grosser Anteil der Besitzverhältnisse im Dunkeln. Dies nennt man Streubesitz.
 
 ## Briefing-Gespräch:
 Mit Julian Chan, Mediensprecher SIX Group:
@@ -16,11 +20,7 @@ Mit Julian Chan, Mediensprecher SIX Group:
 ## Datensatz:
 Der Datensatz wird mittels scraping der Webseite "bedeutende Aktionäre" der SIX Group, der Schweizer Börse, beschafft. Zum Abgleich und zur Auswahl der Firmen wird auf weitere Datensätze der SIX Group zugegriffen, insbesondere für die Indizes UBS 100, SMI und SMI Expanded. Diese können auf der Webseite der SIX als Excel heruntergeladen werden. Die Quelle für diese Arbeit ist also durchgehend die SIX Group. 
 
-_Datensatz (auch bereits strukturierte Daten können verwendet werden)
 
-_Programmiercode
-
-_Arbeitsprotokoll (Was hast du wann weshalb gemacht?)
 
 _je nach gewählter Variante 1,2 oder 3: Endprodukt, Skizze des weiteren
 Vorgehens oder Protokoll des Scheiterns
