@@ -11,12 +11,12 @@ Der Ertrag kann je nach Entwicklung interessant sein. Insbesondere, wenn die Ana
 ## Knackpunkt
 Das Ergebnis wird bei weitem nicht abschliessend sein. Weil nur Besitz von 3, 5 oder mehr Prozent an einer börsenkotierten Firma gemeldet werden muss, bleibt ein sehr grosser Anteil der Besitzverhältnisse im Dunkeln. Dies nennt man Streubesitz.
 
-## Briefing-Gespräch:
+## Briefing-Gespräch
 Mit Julian Chan, Mediensprecher SIX Group:
 "Knackpunkte sind grundsätzlich folgende: Es sind einfach die neuesten Meldungen, aber das heisst nicht, dass sie aktuell sind. Denn Meldungen müssen nur gemacht werden, wenn eine der Schwellen, also bei 3 oder 5 Prozent oder darüber, über oder unterschritten wird. Wenn sich die Anteile zwischen den Schwellen verschieben, braucht es keine Meldung. Ausserdem werden die Meldungen von den Firmen selbst verfasst, wir publizieren sie nur. Das heisst, sie sind auch nicht einheitlich."
 "Die Daten können wir leider nicht zur Verfügung stellen, wir haben sie nicht so strukturiert."
 
-## Datensatz:
+## Datensatz
 Der Datensatz wird mittels scraping der Webseite "bedeutende Aktionäre" der SIX Group, der Schweizer Börse, beschafft. Zum Abgleich und zur Auswahl der Firmen wird auf weitere Datensätze der SIX Group zugegriffen, insbesondere für die Indizes UBS 100, SMI und SMI Expanded. Diese können auf der Webseite der SIX als Excel heruntergeladen werden. Die Quelle für diese Arbeit ist also durchgehend die SIX Group. 
 
 
